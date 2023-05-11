@@ -6,10 +6,12 @@
 
 }
 
-.start-part img {
+.start-part .lang i {
     width: 1.5rem;
     height: 1.5rem;
     cursor: pointer;
+    margin-left: 10px;
+    color: rgba(245, 245, 245, 0.8);
 }
 
 .Right-top i {
