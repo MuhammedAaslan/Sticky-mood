@@ -47,12 +47,12 @@
 }
 
 .home-part {
+    position: sticky;
+    top: 0;
     padding: 30px;
     text-align: center;
     background-image: linear-gradient(19deg, #21d4fd 0%, #6c1c91 100%);
     border-top: 1px solid rgba(128, 128, 128, 0.66);
-    position: sticky;
-    top: 0px;
     z-index: 1;
 }
 
@@ -65,7 +65,6 @@
 
 .home-part a:hover {
     text-decoration: underline;
-    tex
 }
 
 .main-part img {
