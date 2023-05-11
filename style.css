@@ -10,8 +10,8 @@
     width: 1.5rem;
     height: 1.5rem;
     cursor: pointer;
-    margin-left: 10px;
-    color: rgba(245, 245, 245, 0.8);
+    margin-left: 15px;
+    color: rgb(249, 247, 247);
 }
 
 .Right-top i {
@@ -20,7 +20,7 @@
 }
 
 .start-part {
-    padding: 25px;
+    padding: 35px;
     display: flex;
     justify-content: space-between;
     background-color: #21d4fd;
